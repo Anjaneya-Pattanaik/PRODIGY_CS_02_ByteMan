@@ -1,5 +1,4 @@
 # PRODIGY_CS_02
-Image Encryption Using Pixel Manipulation
 Welcome to the Image Encryption Using Pixel Manipulation project repository! This Python program allows you to encrypt and decrypt images using pixel manipulation, providing a simple yet effective way to secure your images.
 
 Introduction
